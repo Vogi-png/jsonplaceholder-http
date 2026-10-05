@@ -21,7 +21,7 @@ def exibir_titulo(texto):
 
 # Volta ao menu principal após a execução de uma função
 def voltar_menu():
-    print('\n Aperte qualquer tecla para voltar ao menu principal\n')
+    print('\n Aperte ENTER para voltar ao menu principal\n')
     input()
 
 # Formata e exibe as informações do usuário
