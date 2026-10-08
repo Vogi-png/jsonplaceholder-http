@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --cor: #4f46e5;
+  --fundo: #f4f5fb;
+  --erro: #dc2626;
+  --ok: #16a34a;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background: var(--fundo);
+  color: #222;
+}
